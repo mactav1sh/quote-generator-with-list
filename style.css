@@ -3,56 +3,38 @@
 - Font sizes (px)
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 
-choosen 
-big - 3.6
-medium 2.4 
-2.2
 
 - Font weights
 Default: 400
 Medium: 500
 Bold: 700
 
-- Line heights
-Default: 1
-Small: 1.05
-Medium: 1.2
-Paragraph default: 1.6
-
-- Letter spacing
--0.5px
-0.75px
 
 --- COLORS
 - Primary:
+#ed213a 
+#93291e
 
 - Tints:
 #fde9eb
-#93291e
 #fabcc4
 
-- Shades: 
-
-
 - Greys
-#888
-#555
 #333
 
 --- SHADOWS
-0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+box-shadow: 2px 4px 20px rgb(0, 0, 0, 0.3)
+box-shadow: 0 4px 20px rgb(0, 0, 0, 0.1)
+box-shadow: 0 4px 20px rgb(0, 0, 0, 0.2);
+box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05)
+
 
 --- BORDER-RADIUS
-
 Default: 10px
-Medium: 11px
 
---- WHITESPACE
-
-- Spacing system (px)
+--- Spacing system (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 
-choosen 2.4 3.6
 */
 
 * {
