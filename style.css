@@ -169,7 +169,7 @@ body {
   flex-direction: column;
   gap: 1rem;
   list-style: none;
-  min-width: 32rem;
+  flex: 0 0 32rem;
   color: #fde9eb;
   line-height: 1.4;
   overflow-x: hidden;
